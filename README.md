@@ -33,15 +33,10 @@
 
 #### 📈 Power BI Sales Dashboard  
 An interactive dashboard tracking sales KPIs, customer trends, and region-wise performance.  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxon.cz%2Fen%2Fservices%2Fbusiness-intelligence-and-comprehensive-reporting&psig=AOvVaw2ABXgl_qvI1gatQCK951GO&ust=1746518538512000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDBuNrui40DFQAAAAAdAAAAABAE"/>
-
 #### 🧹 Python Data Cleaning Script  
 Automates preprocessing of raw CSV data using Python and Pandas.  
-<img src="https://github.com/your-username/your-repo-name/blob/main/assets/python_cleaning_script.png" width="700" />
-
 #### 🗄️ MySQL + Power BI Integration  
-Built a real-time reporting dashboard connected to MySQL database.  
-<img src="https://github.com/your-username/your-repo-name/blob/main/assets/mysql_powerbi.png" width="700" />
+Built a real-time reporting dashboard connected to MySQL database. 
 
 ---
 ### 📫 Let's Connect
